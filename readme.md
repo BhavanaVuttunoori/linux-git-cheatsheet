@@ -9,3 +9,4 @@
 8. git log - show commit history
 9. git status - show current status of repo
 10. cat - display file contents
+11. grep - search for text in files
