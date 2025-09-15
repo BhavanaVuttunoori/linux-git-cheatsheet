@@ -10,3 +10,4 @@
 9. git status - show current status of repo
 10. cat - display file contents
 11. grep - search for text in files
+12. head - display first lines of a file
