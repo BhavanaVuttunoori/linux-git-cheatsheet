@@ -4,3 +4,4 @@
 3. pwd - print working directory
 4. mkdir - make new directory
 5. rm - remove files or directories
+6. cp - copy files
