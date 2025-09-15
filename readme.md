@@ -11,4 +11,5 @@
 10. cat - display file contents
 11. grep - search for text in files
 12. head - display first lines of a file
-13. tail - display last lines of a file
+13. tail - display last lines of a file14. chmod - change file permissions
+14. chmod - change file permissions
