@@ -7,3 +7,4 @@
 6. cp - copy files
 7. mv - move or rename files
 8. git log - show commit history
+9. git status - show current status of repo
